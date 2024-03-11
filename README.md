@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denisugo
-- 👀 I’m interested in web development, mobile apps
-- 🌱 I’m currently working as a full-stack developer of enterprise applications
+- 👀 I’m interested in web development, PWAs, and mobile apps
+- 🌱 I’m currently working as a full-stack engineer of enterprise applications hosted on AWS
 - 📫 How to reach me [Facebook](https://www.facebook.com/denisu471/), [Linkedin](https://www.linkedin.com/in/denis-u-90169b20b/),  [Email](mailto:denisu471@gmail.com)
 - 📝 Check my articles on [Medium](https://medium.com/@denisustiuzhanin)
 <!---
